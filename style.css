@@ -267,7 +267,7 @@ span{
 .foot-logo{
         height: 70px;
         width: 150px;
-        background-image: url(/imeges/logo.png);
+        background-image: url(imeges/logo.png);
         background-size: cover;
 }
 
