@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url(/imeges/logo.png);
+    background-image: url(imeges/logo.png);
     height: 50px;
     width: 100%;
     background-size: cover;
